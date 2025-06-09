@@ -12,9 +12,9 @@
     {
       "env": [],
       "args": [
-        "hello"
+        "--version"
       ],
-      "command": "echo",
+      "command": "npx",
       "preferred": true
     }
   ]

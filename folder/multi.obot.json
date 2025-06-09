@@ -13,9 +13,9 @@
       {
         "env": [],
         "args": [
-          "hello"
+          "--version"
         ],
-        "command": "echo",
+        "command": "npx",
         "preferred": true
       }
     ]
@@ -34,9 +34,9 @@
       {
         "env": [],
         "args": [
-          "hello"
+          "--version"
         ],
-        "command": "echo",
+        "command": "npx",
         "preferred": true
       }
     ]
