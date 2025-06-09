@@ -1,0 +1,22 @@
+{
+  "id": 1234,
+  "path": "README.md",
+  "displayName": "Test 1",
+  "url": "https://example.com/1",
+  "description": "Test 1",
+  "stars": 111,
+  "metadata": {
+    "categories": "Retrieval & Search"
+  },
+  "manifest": [
+    {
+      "env": [],
+      "args": [
+        "hello"
+      ],
+      "command": "echo",
+      "preferred": true
+    }
+  ]
+}
+
